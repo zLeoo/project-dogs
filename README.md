@@ -9,11 +9,18 @@ Atualmente o sistema está hospedado no Heroku Cloud, e você pode acessar em [p
 Caso queira rodar localmente a aplicação, siga os seguintes passos:
 
 * Instale o [Node Package Manager](https://nodejs.org/en/) em sua máquina
-* Clone o repositório para sua máquina local
+* Tendo o git instalado, clone o repositório para sua máquina local usando o seguinte comando
+```
+  git clone https://github.com/zLeoo/project-dogs.git
+```
 * Dentro da raíz do projeto rode o comando npm install para instalar as dependências do projeto
+ ```
+  npm install
+```
 * Digite o comando npm start para rodar o app na porta 3000 do seu servidor local
-
-
+```
+  npm start
+```
 
 
 
