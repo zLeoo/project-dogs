@@ -21,6 +21,9 @@ Caso queira rodar localmente a aplicação, siga os seguintes passos:
 ```
   npm start
 ```
+## Importante
+
+A finalidade desse projeto foi colocar os principais conceitos de react em prática, portanto, o app consome uma API compartilhada pelos alunos do curso e deleta as fotos adicionadas após um determinado tempo.
 
 
 
