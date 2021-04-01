@@ -4,7 +4,7 @@ Project Dogs é uma rede social para cães e faz parte do produto final do curso
 
 ## Como posso ter acesso ao projeto?
 
-Atualmente o sistema está hospedado no Heroku Cloud, e você pode acessar em *project-dogs.herokuapp.com*
+Atualmente o sistema está hospedado no Heroku Cloud, e você pode acessar em (project-dogs.herokuapp.com)
 
 Caso queira rodar localmente a aplicação, siga os seguintes passos:
 
